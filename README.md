@@ -2,7 +2,7 @@
 
 For a live demo of sap fiori styes using 
 the [Vue Cli Plugin Fundamental](https://github.com/ChristianKienle/vue-cli-plugin-fundamental)
-click [here] https://fiori-vue.azurewebsites.net/) 
+click [here](https://fiori-vue.azurewebsites.net/) 
 
 ## Project setup
 ```
