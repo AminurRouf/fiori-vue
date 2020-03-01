@@ -28,7 +28,6 @@
 
 <script>
 import ShellBar from "@/components/ShellBar.vue";
-
 export default {
   name: "App",
   components: { ShellBar },

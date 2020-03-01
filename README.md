@@ -1,5 +1,8 @@
 # fiori-vue
 
+demo of sap fiori styes using [Vue Cli Plugin](https://github.com/ChristianKienle/vue-cli-plugin-fundamental
+https://fiori-vue.azurewebsites.net/) with the Vue Cli default template
+
 ## Project setup
 ```
 npm install
