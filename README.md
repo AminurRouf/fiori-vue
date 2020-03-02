@@ -1,7 +1,7 @@
 # fiori-vue
 SAP [Fundamental Styles](https://sap.github.io/fundamental-styles/) is a open source project to provide a consisent SAP user interfaces using Fiori 3.0 component library.
 
-[Fundamental Library for Vue] is an Vue implementation of Fundamental styles and is an alternative to to SAP UI5. This repo demonstrates a basic shell of creating a Vue.js project using Fundamental styles.
+[Fundamental Library for Vue](https://sap.github.io/fundamental-vue/) is an Vue implementation of Fundamental styles and is an alternative to to SAP UI5. This repo demonstrates a basic shell of creating a Vue.js project using Fundamental styles.
 
 For a live demo of this repo click [here](https://fiori-vue.azurewebsites.net/).
 
